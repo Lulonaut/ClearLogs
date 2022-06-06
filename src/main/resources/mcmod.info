@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "clearlogs",
+    "name": "ClearLogs",
+    "description": "Deletes old logs",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Lulonaut"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
